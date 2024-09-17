@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+  .social-bar{
+    text-align: right;
+    width: 100%;
+    height: 3%;
+
+  }
+  .lightblue{
+    background-color: lightblue;
+  }
+
+  .roboto-regular {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+  .container-fluid .row .col-3 h1,p {
+    font-family: "Roboto", sans-serif, normal;
+
+  }
+
+
+
+  /*Footer */
+  .border-bt{
+    border-bottom: 1px solid lightgray;
+    border-top: 1px solid lightgray;
+  }
+
+  .black{
+    background-color: black;
+  }
+  .white{
+    color: white;
+  }
+
+  input[type="text"]{
+    border: 0;
+    border-radius: 10x;
+  }
+  button[type="button"]{
+    border-radius: 30px;
+  }
+
+  .bcolor{
+    background-color: rgb(142, 233, 230);
+  }
+
+  .border-2{
+    border: 1px dotted lightgray;
+    border-radius: 3px;
+    box-shadow: 0px 1px 2px black;
+  }
